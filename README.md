@@ -38,7 +38,7 @@ I want to preface this codebase by saying that we started it as a hackathon proj
 RIP PICTURES FROM THE GITHUB PAGES
 -->
 
-#### CSE 366 (Intro to Virtual Reality)
+### CSE 366 (Intro to Virtual Reality)
 <!---
 INSERT 366 assignments with their homework pdfs, reports, and a screenshot from the video HERE
 -->
