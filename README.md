@@ -43,10 +43,28 @@ And here is the repository: https://github.com/quantumech3/hack-cewit-2024
 
 ### Personal projects
 #### Ambulance Simulator (Won funniest hack at SBU Hacks 2022)
+![image](https://github.com/user-attachments/assets/88d90448-a875-46ed-8f76-2c5f32b706cc)
+
 https://devpost.com/software/ambulance-simulator
-A game about an ambulance driver who forgot where the hospital is and needs to deliver his patient in a minute or the patient dies. You win by delivering the patient and not running anyone else over on the way. Easy.... right?
+A game about an ambulance driver who forgot where the hospital is and needs to deliver his patient in a minute or the patient dies. You win by not running anyone over on the way. Easy.... right?
+
+#### EMT Simulator (Won Best Game Dev at SBU Hacks 2024)
+![image](https://github.com/user-attachments/assets/5e0a0b0f-8c77-477f-9451-4803deac1311)
+A game in virtual reality which simulates the experience of taking a patient, putting them on a stretcher, and hauling them into an ambulance. Easy.... right?
+https://devpost.com/software/emergency-medical-technician-simulator
+
+#### My personal website
+https://quantumech3.github.io
+Check it out! I am trying to get back into blogging and I hope to write about some interesting topics in the future. I recently discovered a programming language called Max which allows me to make my own realtime DSP algorithms while I am using them, rather then being compiled. I will probably be uploading some blogs about that once I get more familiar with it myself.
+
+#### Other interests
+I am currently working on an electronic music/rock instrumental album. I post the songs as I work on them and I make all the cover art myself in Blender. I like playing with visual and DSP algorithms to create art with them.
+https://soundcloud.com/quantumech/sets/as-her-wings-burn
+![image](https://github.com/user-attachments/assets/7c906fb6-eb3b-4435-8b1d-a57f295a0c43)
+
+I also do photography and other stuff along those lines. I enjoy making/playing video games from time to time. My personality can be summarized on the first blog of my personal website, hopefully not fully summarized though since I hope I am a more interesting person then that!
 
 <!---
-Upload both ambulance simulators or links to devpost + screenshot, sorting synth, algebra library, and polysnake visualizer, and screenshots since the codebases are not usable
+Upload screenshot of sorting synth, algebra library, and polysnake visualizer, See if you can get the repos themselves uploaded.
 -->
 
