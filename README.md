@@ -24,6 +24,8 @@ I want to preface this codebase by saying that we started it as a hackathon proj
 <img width="1226" alt="image" src="https://github.com/user-attachments/assets/10c75b30-9d53-4482-8787-65074cea1a9b">
 Here is a video of it: https://www.youtube.com/watch?v=zIOy9oAN_Y8
 
+And here is the repository: https://github.com/quantumech3/hack-cewit-2024
+
 
 ### Industry
 #### Kitware
@@ -36,19 +38,15 @@ Here is a video of it: https://www.youtube.com/watch?v=zIOy9oAN_Y8
 - https://github.com/quantumech3/TeleSculptor
 <img width="745" alt="telesculptor_screenshot_windows" src="https://github.com/user-attachments/assets/96065a92-62db-4ce3-869f-e4e10a4a0aa7">
 
-<!---
-RIP PICTURES FROM THE GITHUB PAGES
--->
-
 ### CSE 366 (Intro to Virtual Reality)
-<!---
-INSERT 366 assignments with their homework pdfs, reports, and a screenshot from the video HERE
--->
 
-### Personal projects from high school
-- https://github.com/quantumech3/IRCChat
+
+### Personal projects
+#### Ambulance Simulator (Won funniest hack at SBU Hacks 2022)
+https://devpost.com/software/ambulance-simulator
+A game about an ambulance driver who forgot where the hospital is and needs to deliver his patient in a minute or the patient dies. You win by delivering the patient and not running anyone else over on the way. Easy.... right?
 
 <!---
-Upload your sorting synth, algebra library, and polysnake visualizer, and screenshots since the codebases are not usable
+Upload both ambulance simulators or links to devpost + screenshot, sorting synth, algebra library, and polysnake visualizer, and screenshots since the codebases are not usable
 -->
 
