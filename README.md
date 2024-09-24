@@ -3,8 +3,7 @@
 - https://github.com/quantumech3/AR-Lazer-Tag
 - https://github.com/quantumech3/decawave-interface
 ![image](https://github.com/user-attachments/assets/3857e173-010b-4d53-9bdd-92544e0c6149)
-
-
+Video of project demo: https://www.youtube.com/watch?time_continue=31&v=gSiuyvAdZ-o&feature=emb_logo
 
 #### XSB Prolog Web IDE
 - https://github.com/quantumech3/XSB-Web-IDE
