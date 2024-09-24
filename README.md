@@ -38,6 +38,17 @@ And here is the repository: https://github.com/quantumech3/hack-cewit-2024
 <img width="745" alt="telesculptor_screenshot_windows" src="https://github.com/user-attachments/assets/96065a92-62db-4ce3-869f-e4e10a4a0aa7">
 
 ### CSE 366 (Intro to Virtual Reality)
+Course page: https://www3.cs.stonybrook.edu/~cse366/
+#### CSE 366 Homework 1 & 2 (homework 2 built off homework 1)
+Homework 1 requirements: https://github.com/quantumech3/366hw/blob/f3e44056782aec9fd88db49035d4863debd5c610/366hw1.pdf
+Homework 2 requirements (VR rollercoaster.. I got a little carried away 🤣): https://github.com/quantumech3/366hw/blob/f3e44056782aec9fd88db49035d4863debd5c610/366hw2.pdf
+Video of my homework 2 submission: https://www.youtube.com/watch?v=kBLcEDPtgbg
+![image](https://github.com/user-attachments/assets/689834ee-d0bb-490d-811b-c62f052d38be)
+
+#### CSE 366 Homework 3
+Homework 3 (AR Golf game): https://github.com/quantumech3/366hw/blob/f3e44056782aec9fd88db49035d4863debd5c610/366hw3.pdf
+Video of homework 3 submission: https://www.youtube.com/watch?v=T_mnSeEi5uI
+![image](https://github.com/user-attachments/assets/329d2321-3518-4427-8863-7357313ec996)
 
 
 ### Personal projects
