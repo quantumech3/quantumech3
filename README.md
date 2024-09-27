@@ -82,7 +82,7 @@ https://quantumech3.github.io
 Check it out! I am trying to get back into blogging and I hope to write about some interesting topics in the future. I recently discovered a programming language called Max which allows me to make my own realtime DSP algorithms while I am using them, rather then being compiled. I will probably be uploading some blogs about that once I get more familiar with it myself.
 
 #### Sorting Synth
-In high school, I implemented a FM based synth that uses intermediate steps in sorting algorithms to modulate the pitch of an oscillator in real time. I implemented many sorting algorithms to work with this. I used the JUCE framework in CPP to achieve this. I hope to get back into synth making now that I have Max MSP and Ableton. All parameters can be automated. I have other personal projects from high school but many of them were lost sadly. I liked making music visualizers, image filters, and physics simulations.
+In high school, I implemented a FM based synth that uses intermediate steps in sorting algorithms to modulate the pitch of an oscillator in real time. I implemented many sorting algorithms to work with this. I used the JUCE framework in CPP to achieve this. I hope to get back into synth making now that I have Max MSP and Ableton. All parameters can be automated. I have other personal projects from high school but many of them were lost sadly. I liked making music visualizers, image filters, ray tracing, and physics simulations.
 ![image](https://github.com/user-attachments/assets/af944108-c00e-438f-8c42-e6d03cd888b7)
 Video (with audio of the synth): https://www.youtube.com/watch?v=x-A9fYVrdME
 
