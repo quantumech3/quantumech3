@@ -18,7 +18,7 @@ This was done with a former PhD student. On this project I wrote an algorithm, a
 With guidence from a professor from SBU, I singlehandedly ported an interpreter for a variant of a logic based programming language called "Prolog" to Web Assembly. I then built an entire IDE around it. It is still in progress today but my new updates are private at the moment in preparation for a paper hopefully 🤞.
 
 #### Blood Platelet Project
-- I cannot provide a public link, however here is a poster of our preliminary work. I did everything on the left side of the poster.
+- I cannot provide a public link, however here is a poster of our preliminary work. I did everything on the left side of the poster. I led a group of undergraduates to help me achieve this.
 <img width="1420" alt="image" src="https://github.com/user-attachments/assets/f0413f1a-d4cb-485b-abd3-54ff48b206cc">
 
 ##### Description
