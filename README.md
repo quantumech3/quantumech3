@@ -2,7 +2,9 @@
 #### AR Lazer tag
 - https://github.com/quantumech3/AR-Lazer-Tag
 - https://github.com/quantumech3/decawave-interface
-![image](https://github.com/user-attachments/assets/3857e173-010b-4d53-9bdd-92544e0c6149)
+
+![image](AR_Lazer_tag_showcase.gif)
+
 Video of project demo: https://www.youtube.com/watch?time_continue=31&v=gSiuyvAdZ-o&feature=emb_logo
 
 ##### Description
@@ -29,7 +31,9 @@ With guidence from a professor from SBU, I singlehandedly ported an interpreter 
 
 #### POAM: Projected Off Axis Manipulation
 I want to preface this codebase by saying that we started it as a hackathon project. We then came to a professor about it and turned it into a research project. That is why the codebase is messy. Additionally, we have a private branch that we are not allowed to show at this time. What you are about to see is an early prototype.
-<img width="1226" alt="image" src="https://github.com/user-attachments/assets/10c75b30-9d53-4482-8787-65074cea1a9b">
+
+![image](POAM_prototype_demo.gif)
+
 Here is a video of it: https://www.youtube.com/watch?v=zIOy9oAN_Y8
 
 And here is the repository: https://github.com/quantumech3/hack-cewit-2024
@@ -57,23 +61,26 @@ Course page: https://www3.cs.stonybrook.edu/~cse366/
 - Homework 1 requirements: https://github.com/quantumech3/366hw/blob/f3e44056782aec9fd88db49035d4863debd5c610/366hw1.pdf
 - Homework 2 requirements (VR rollercoaster.. I got a little carried away 🤣): https://github.com/quantumech3/366hw/blob/f3e44056782aec9fd88db49035d4863debd5c610/366hw2.pdf
 - Video of my homework 2 submission: https://www.youtube.com/watch?v=kBLcEDPtgbg
-![image](https://github.com/user-attachments/assets/689834ee-d0bb-490d-811b-c62f052d38be)
+
+![image](CSE_366_homework_2.gif)
 
 #### CSE 366 Homework 3
 - Homework 3 (AR Golf game): https://github.com/quantumech3/366hw/blob/f3e44056782aec9fd88db49035d4863debd5c610/366hw3.pdf
 - Video of homework 3 submission: https://www.youtube.com/watch?v=T_mnSeEi5uI
-![image](https://github.com/user-attachments/assets/329d2321-3518-4427-8863-7357313ec996)
+
+![image](CSE_366_homework_3.gif)
 
 
 ### Personal projects
 #### Ambulance Simulator (Won funniest hack at SBU Hacks 2022)
-![image](https://github.com/user-attachments/assets/88d90448-a875-46ed-8f76-2c5f32b706cc)
+![image](AmbulanceSim.gif)
 
 https://devpost.com/software/ambulance-simulator
 A game about an ambulance driver who forgot where the hospital is and needs to deliver his patient in a minute or the patient dies. You win by not running anyone over on the way. Easy.... right?
 
 #### EMT Simulator (Won Best Game Dev at SBU Hacks 2024)
-![image](https://github.com/user-attachments/assets/5e0a0b0f-8c77-477f-9451-4803deac1311)
+![image](Hackathon_Final.gif)
+
 A game in virtual reality which simulates the experience of taking a patient, putting them on a stretcher, and hauling them into an ambulance. Easy.... right?
 https://devpost.com/software/emergency-medical-technician-simulator
 
@@ -83,7 +90,7 @@ Check it out! I am trying to get back into blogging and I hope to write about so
 
 #### Sorting Synth
 In high school, I implemented a FM based synth that uses intermediate steps in sorting algorithms to modulate the pitch of an oscillator in real time. I implemented many sorting algorithms to work with this. I used the JUCE framework in CPP to achieve this. I hope to get back into synth making now that I have Max MSP and Ableton. All parameters can be automated. I have other personal projects from high school but many of them were lost sadly. I liked making music visualizers, image filters, ray tracing, and physics simulations.
-![image](https://github.com/user-attachments/assets/af944108-c00e-438f-8c42-e6d03cd888b7)
+![image](Sorting_synth.gif)
 Video (with audio of the synth): https://www.youtube.com/watch?v=x-A9fYVrdME
 
 #### Other interests
