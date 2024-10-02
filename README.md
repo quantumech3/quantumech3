@@ -90,7 +90,9 @@ Check it out! I am trying to get back into blogging and I hope to write about so
 
 #### Sorting Synth
 In high school, I implemented a FM based synth that uses intermediate steps in sorting algorithms to modulate the pitch of an oscillator in real time. I implemented many sorting algorithms to work with this. I used the JUCE framework in CPP to achieve this. I hope to get back into synth making now that I have Max MSP and Ableton. All parameters can be automated. I have other personal projects from high school but many of them were lost sadly. I liked making music visualizers, image filters, ray tracing, and physics simulations.
+
 ![image](Sorting_synth.gif)
+
 Video (with audio of the synth): https://www.youtube.com/watch?v=x-A9fYVrdME
 
 #### Other interests
